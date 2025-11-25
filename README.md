@@ -18,10 +18,6 @@ Online CGPA or Class-Devision Checker in Honurs 1st Year make by SHAWON in PHP
      for any PHP, Laravel, Python, Flutter work contact me at inzamamulhoque.cse@gmail.com 
       
 
-### Preview
-
-<img src="frontend.png">
 
 
-### Result Preview
-<img src="result.png">
+
